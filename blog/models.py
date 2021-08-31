@@ -21,7 +21,6 @@ class Passwords(models.Model):
     age = models.IntegerField()
 
 
-
 #u = User(unique_id='ewr23472323', name='Vasya', surname='Petrov', age=33)
 #u.save()
 
